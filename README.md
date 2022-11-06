@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am <a rel="me" href="https://framapiaf.org/@sebkirche">@sebkirche@framapiaf.org</a> on Mastodon
+<!-- I am <a rel="me" href="https://framapiaf.org/@sebkirche">@sebkirche@framapiaf.org</a> on Mastodon -->
+I used to maintain a <a href="http://sebastien.kirche.free.fr/">personal page</a> but it is a bit outdated now... 
 
 <!--
 **sebkirche/sebkirche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
